@@ -1,0 +1,13 @@
+{
+  "tenantId": "44043699-efbe-443b-a493-c2c624044f02",
+  "widgets": [
+    {
+      "name": "ColorPicker",
+      "position": "top"
+    },
+    {
+      "name": "UIF",
+      "position": "left"
+    }
+  ]
+}

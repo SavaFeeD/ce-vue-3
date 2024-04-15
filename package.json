@@ -1,0 +1,21 @@
+{
+  "name": "alchemyth-integration",
+  "version": "1.0.0",
+  "description": "gulp tasks for integration ce-app [alchemyth] to other project (shopify-theme)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alchemyth",
+    "integration",
+    "gulp",
+    "vue3",
+    "vite"
+  ],
+  "author": "SavaFeeD",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
